@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("Hello Prathamesh");
 		int a = 5, b = 6;
 		System.out.println("Sum is : "+a+b);
+		System.out.println("Product is : "+a*b);
 	}
 
 }
